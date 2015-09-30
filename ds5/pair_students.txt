@@ -1,0 +1,263 @@
+
+
+9/24/2015	Thursday
+
+[('Andre', 'Mark'),
+ ('John Winter', 'Michael'),
+ ('John M Walters', 'Nathan'),
+ ('John K', 'Nilufer'),
+ ('Andrew', 'Sean'),
+ ('David', 'Will'),
+ ('Don', 'Callum'),
+ ('Garrett', 'John G'),
+ ('Greg', 'Jason P'),
+ ('Jared', 'Jason K')]
+
+
+9/25/2015   Friday
+
+[('Andre', 'Michael'),
+ ('Mark', 'Nathan'),
+ ('John Winter', 'Nilufer'),
+ ('John M Walters', 'Sean'),
+ ('John K', 'Will'),
+ ('Andrew', 'Callum'),
+ ('David', 'John G'),
+ ('Don', 'Jason P'),
+ ('Garrett', 'Jason K'),
+ ('Greg', 'Jared')]
+
+
+
+9/28/2015   Monday
+
+[('Andre', 'Nathan'),
+ ('Michael', 'Nilufer'),
+ ('Mark', 'Sean'),
+ ('John Winter', 'Will'),
+ ('John M Walters', 'Callum'),
+ ('John K', 'John G'),
+ ('Andrew', 'Jason P'),
+ ('David', 'Jason K'),
+ ('Don', 'Jared'),
+ ('Garrett', 'Greg')]
+
+
+
+9/29/2015   Tuesday
+
+[('Andre', 'Nilufer'),
+ ('Nathan', 'Sean'),
+ ('Michael', 'Will'),
+ ('Mark', 'Callum'),
+ ('John Winter', 'John G'),
+ ('John M Walters', 'Jason P'),
+ ('John K', 'Jason K'),
+ ('Andrew', 'Jared'),
+ ('David', 'Greg'),
+ ('Don', 'Garrett')]
+
+9/30/2015	Wednesday   
+
+[('Andre', 'Sean'),
+ ('Nilufer', 'Will'),
+ ('Nathan', 'Callum'),
+ ('Michael', 'John G'),
+ ('Mark', 'Jason P'),
+ ('John Winter', 'Jason K'),
+ ('John M Walters', 'Jared'),
+ ('John K', 'Greg'),
+ ('Andrew', 'Garrett'),
+ ('David', 'Don')]
+
+
+
+10/1/2015	Thursday
+
+[('Andre', 'Will'),
+ ('Sean', 'Callum'),
+ ('Nilufer', 'John G'),
+ ('Nathan', 'Jason P'),
+ ('Michael', 'Jason K'),
+ ('Mark', 'Jared'),
+ ('John Winter', 'Greg'),
+ ('John M Walters', 'Garrett'),
+ ('John K', 'Don'),
+ ('Andrew', 'David')]
+
+
+
+10/2/2015	Friday
+
+[('Andre', 'Callum'),
+ ('Will', 'John G'),
+ ('Sean', 'Jason P'),
+ ('Nilufer', 'Jason K'),
+ ('Nathan', 'Jared'),
+ ('Michael', 'Greg'),
+ ('Mark', 'Garrett'),
+ ('John Winter', 'Don'),
+ ('John M Walters', 'David'),
+ ('John K', 'Andrew')]
+
+
+
+10/5/2015	Monday
+
+[('Andre', 'John G'),
+ ('Callum', 'Jason P'),
+ ('Will', 'Jason K'),
+ ('Sean', 'Jared'),
+ ('Nilufer', 'Greg'),
+ ('Nathan', 'Garrett'),
+ ('Michael', 'Don'),
+ ('Mark', 'David'),
+ ('John Winter', 'Andrew'),
+ ('John M Walters', 'John K')]
+
+
+
+
+10/6/2015	Tuesday
+
+[('Andre', 'Jason P'),
+ ('John G', 'Jason K'),
+ ('Callum', 'Jared'),
+ ('Will', 'Greg'),
+ ('Sean', 'Garrett'),
+ ('Nilufer', 'Don'),
+ ('Nathan', 'David'),
+ ('Michael', 'Andrew'),
+ ('Mark', 'John K'),
+ ('John Winter', 'John M Walters')]
+
+
+
+10/7/2015	Wednesday
+
+[('Andre', 'Jason K'),
+ ('Jason P', 'Jared'),
+ ('John G', 'Greg'),
+ ('Callum', 'Garrett'),
+ ('Will', 'Don'),
+ ('Sean', 'David'),
+ ('Nilufer', 'Andrew'),
+ ('Nathan', 'John K'),
+ ('Michael', 'John M Walters'),
+ ('Mark', 'John Winter')]
+
+
+
+10/8/2015	Thursday
+
+[('Andre', 'Jared'),
+ ('Jason K', 'Greg'),
+ ('Jason P', 'Garrett'),
+ ('John G', 'Don'),
+ ('Callum', 'David'),
+ ('Will', 'Andrew'),
+ ('Sean', 'John K'),
+ ('Nilufer', 'John M Walters'),
+ ('Nathan', 'John Winter'),
+ ('Michael', 'Mark')]
+
+
+10/9/2015	Friday
+
+[('Andre', 'Greg'),
+ ('Jared', 'Garrett'),
+ ('Jason K', 'Don'),
+ ('Jason P', 'David'),
+ ('John G', 'Andrew'),
+ ('Callum', 'John K'),
+ ('Will', 'John M Walters'),
+ ('Sean', 'John Winter'),
+ ('Nilufer', 'Mark'),
+ ('Nathan', 'Michael')]
+
+
+
+10/12/2015	Monday
+
+[('Andre', 'Garrett'),
+ ('Greg', 'Don'),
+ ('Jared', 'David'),
+ ('Jason K', 'Andrew'),
+ ('Jason P', 'John K'),
+ ('John G', 'John M Walters'),
+ ('Callum', 'John Winter'),
+ ('Will', 'Mark'),
+ ('Sean', 'Michael'),
+ ('Nilufer', 'Nathan')]
+
+
+
+10/13/2015	Tuesday
+
+[('Andre', 'Don'),
+ ('Garrett', 'David'),
+ ('Greg', 'Andrew'),
+ ('Jared', 'John K'),
+ ('Jason K', 'John M Walters'),
+ ('Jason P', 'John Winter'),
+ ('John G', 'Mark'),
+ ('Callum', 'Michael'),
+ ('Will', 'Nathan'),
+ ('Sean', 'Nilufer')]
+
+
+
+
+10/14/2015	Wednesday
+
+[('Andre', 'David'),
+ ('Don', 'Andrew'),
+ ('Garrett', 'John K'),
+ ('Greg', 'John M Walters'),
+ ('Jared', 'John Winter'),
+ ('Jason K', 'Mark'),
+ ('Jason P', 'Michael'),
+ ('John G', 'Nathan'),
+ ('Callum', 'Nilufer'),
+ ('Will', 'Sean')]
+
+
+
+10/15/2015	Thursday
+
+[('Andre', 'Andrew'),
+ ('David', 'John K'),
+ ('Don', 'John M Walters'),
+ ('Garrett', 'John Winter'),
+ ('Greg', 'Mark'),
+ ('Jared', 'Michael'),
+ ('Jason K', 'Nathan'),
+ ('Jason P', 'Nilufer'),
+ ('John G', 'Sean'),
+ ('Callum', 'Will')]
+
+
+10/16/2015	Friday
+
+[('Andre', 'John K'),
+ ('Andrew', 'John M Walters'),
+ ('David', 'John Winter'),
+ ('Don', 'Mark'),
+ ('Garrett', 'Michael'),
+ ('Greg', 'Nathan'),
+ ('Jared', 'Nilufer'),
+ ('Jason K', 'Sean'),
+ ('Jason P', 'Will'),
+ ('John G', 'Callum')]
+
+
+
+ 
+
+
+
+
+
+
+
+
